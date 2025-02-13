@@ -6,3 +6,5 @@ commit 2 -- added dev 1
 
 
 DEV 1 NEW CHANGES
+
+NEW pr CHANGES
