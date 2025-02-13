@@ -5,5 +5,3 @@ commit 1
 commit 2
 
 this is dev 3 and you need to store this branch
-
-new code
